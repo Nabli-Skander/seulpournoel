@@ -1,0 +1,87 @@
+body .navbar-brand img {
+  height: 60px;
+}
+
+body .section-press {
+  text-align: center;
+  padding: 35px 0 20px 35px;
+}
+
+body .section-press a img {
+  height: 50px;
+  margin-right: 35px;
+  margin-bottom: 35px;
+  -webkit-filter: grayscale(100%);
+          filter: grayscale(100%);
+  opacity: 0.5;
+  -webkit-transition: opacity 0.1s ease-in-out, -webkit-filter 0.1s ease-in-out;
+  transition: opacity 0.1s ease-in-out, -webkit-filter 0.1s ease-in-out;
+  transition: opacity 0.1s ease-in-out, filter 0.1s ease-in-out;
+  transition: opacity 0.1s ease-in-out, filter 0.1s ease-in-out, -webkit-filter 0.1s ease-in-out;
+}
+
+body .section-press a:hover img {
+  -webkit-filter: none;
+          filter: none;
+  opacity: 1;
+}
+
+body .footer {
+  position: relative;
+  padding: 60px 0 60px 0;
+}
+
+body .footer .brand img {
+  height: 45px;
+}
+
+body .hero .hero-wrapper {
+  padding-bottom: 20px;
+}
+
+body .language-selector img {
+  height: 20px;
+  width: 30px;
+}
+
+body .language-selector span {
+  padding-left: 5px;
+  text-transform: capitalize;
+}
+
+body .block section {
+  margin-bottom: 30px;
+}
+
+body .stripe-button-el {
+  display: none;
+}
+
+body .hidden {
+  display: none;
+}
+
+body .btn-default {
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+}
+
+body .has-dark-background {
+  background-image: url("/img/bg-section-home.jpg");
+  background-size: 100%;
+}
+
+body .has-dark-background p {
+  opacity: 1;
+}
+
+body .has-dark-background .btn {
+  color: #fff !important;
+  border-color: #fff;
+}
+
+body .iCheck-helper {
+  z-index: 90;
+}
+

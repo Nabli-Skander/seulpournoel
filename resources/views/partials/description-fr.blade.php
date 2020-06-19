@@ -1,0 +1,1 @@
+Seul Pour Noël est né en décembre 2015 au sein de l’emblématique capitale de Noël, la magnifique ville de Strasbourg. Grâce à cette troisième version vous pouvez organiser vos fêtes de fin d’année partout en France et dans le monde. Joyeuses fêtes de fin d’année à toutes et à tous !
